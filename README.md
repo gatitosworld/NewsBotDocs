@@ -3,7 +3,7 @@ Este bot ha sido creado con el objetivo de facilitar y afianzar todo lo posible 
 <br>
 Dado su uso restringido y el deseo de evitar demasiado tráfico de acciones por parte de usuarios carentes de los permisos, hemos decidido evitar la creación de un archivo `/ayuda` y hacer así esta página desde la que se podrá comprobar la información de los diferentes comandos, botones y menús del bot.
 
-<br><br><br><br>
+<br><br>
 
 | Nombre                     |        |
 |:---------------------------|:-------|
@@ -15,6 +15,8 @@ Dado su uso restringido y el deseo de evitar demasiado tráfico de acciones por 
 | Prueba de conexión y velocidad | [➡️](#prueba-de-conexión-y-velocidad-ping) |
 | Reporte de errores | [➡️](#reporte-de-errores) |
 | Subida de archivos de audio | [➡️](#subida-de-archivos-de-audio) |
+
+<br><br><br><br>
 
 ### Actualización de los comandos
 
