@@ -5,7 +5,7 @@ Dado su uso restringido y el deseo de evitar demasiado tráfico de acciones por 
 
 <br><br>
 
-| Nombre                                |                                            |
+| Sección                               |                                            |
 |:--------------------------------------|:-------------------------------------------|
 | Actaulización de los comandos         | [➡️](#actualización-de-los-comandos)       |
 | Cancelación de eventos                | [➡️](#cancelación-de-eventos)              |
@@ -33,7 +33,7 @@ Para poder cancelar de forma óptima un evento se puede hacer *click* en el bot�
 <br><br>
 
 ### Configuración de canales
-Para realizar la configuración de canales, como el de stage o la [Biblioteca](#biblioteca) se hace uso del comando `/config` con la siguiente estructura:
+Para realizar la configuración de canales, como el de stage o la [Biblioteca](#biblioteca), se hace uso del comando `/config` con la siguiente estructura:
 ```txt
 /config stage <canal>
 /config biblioteca <canal>
@@ -57,7 +57,7 @@ Gracias al comando `/eliminar` podrás deshacerte de un archivo de la [Bibliotec
 /eliminar <id>
 ```
 Para facilitar el trabajo, existe también un botón que cumple la misma función.
-> NOTA: Si no sabe qué especificar en [&lt;id&gt;](#id-o-id), encontrará una breve descripción del valor que debe introducir justo encima de la barra de texto<br>
+> NOTA: Si no sabe qué especificar en [&lt;id&gt;](#id-o-id), encontrará una breve descripción del valor que debe introducir justo encima de la barra de texto.<br>
 > Adelantando futuro trabajo, se trata de la [ID de archivo](#id-de-archivo).
 
 <br><br>
@@ -100,7 +100,7 @@ Campo de un comando slash en el que se debe introducir una ID de archivo, error,
 <br><br>
 
 #### Biblioteca
-Canal de texto en el que se muestran los diferentes archivo de audio almacenados por el bot junto con los eventos creados. Desde este canal se puede realizar así la gestión de contenido por medio de los botones en los mensajes.
+Canal de texto en el que se muestran los diferentes archivos de audio almacenados por el bot junto con los eventos creados. Desde este canal se puede realizar así la gestión de contenido por medio de los botones en los mensajes.
 
 <br><br>
 
